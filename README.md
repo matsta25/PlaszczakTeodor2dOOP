@@ -1,3 +1,3 @@
 # PlaszczakTeodor2dOOP
 
-Its very simple oop 2d "plaszczak" !game.
+Its very simple oop( c++ ) 2d "plaszczak" !game.
